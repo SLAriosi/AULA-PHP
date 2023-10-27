@@ -4,14 +4,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Americanas - UniAlfa</title>
+    <title>Cursos Online Unialfa</title>
     <link rel="stylesheet" href="css/style.css">
-    <link rel="shortcut icon" href="imagens/icone.webp">
+    <link rel="shortcut icon" href="imagens/icone_logo.png">
 </head>
 <body>
     <header>
         <a href="index.php" title="Home">
-            <img src="imagens/logo.png" alt="Americanas">
+            <img src="imagens/banner_unialfa.png" alt="Americanas">
         </a>
 
         <nav>

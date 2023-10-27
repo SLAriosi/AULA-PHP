@@ -1,31 +1,23 @@
 <?php
 
     $produtos[1] = array("id"=>1,
-        "nome"=>"Notebook Lenovo Ideapad 3i Intel Celeron-N4020 4GB 128GB SSD Tela 15,6 Windows 11 - Prata",
-        "valor"=>"2.600,90",
-        "imagem"=>"4199005932P.webp");
+        "nome"=>"Alan, o nosso professor bombado de 1,65 que ama um basquetinho, jogador de COD que ensina HTML e Bootstrap Matando os cara no Gulag",
+        "valor"=>"2.600,90 Mensais",
+        "imagem"=>"alanReis.jpeg");
     $produtos[2] = array("id"=>2,
-        "nome"=>"Ultra-fino laptop pc de 14,1 polegadas Netbook 1366 * 768p pixéis 2GB + 32GB",
-        "valor"=>"1.900,00",
-        "imagem"=>"3986267157_1.webp");
+        "nome"=>"Esse nosso professor é incrível, te ensina a fazer uma Pokedex e até a usar GITHUB, de quebra tu sai sabendo Java",
+        "valor"=>"1.900,00 Mensais",
+        "imagem"=>"alexMorgado.jpeg");
     $produtos[3] = array("id"=>3,
-        "nome"=>"Notebook Asus Intel Celeron-N4020 4GB 128GB W11 Pro 15,6 Preto E510MA-BR702X",
-        "valor"=>"2300,90",
-        "imagem"=>"4471806385P.webp");
+        "nome"=>"Esse Professor é foda, ensina a fazer jogo 2d, Ensina a usar Banco de dados e ainda te ajuda a mexer com Json",
+        "valor"=>"2300,90 Mensais",
+        "imagem"=>"andreDorigan.jpeg");
     $produtos[4] = array("id"=>4,
-        "nome"=>"Smartphone Samsung Galaxy M23 5G 128GB Processador Snapdragon Tela 6.6 Dual Chip 6GB RAM Câmera Tripla + Selfie 8MP - Azul",
-        "valor"=>"1.490,99",
-        "imagem"=>"4847222961P.webp");
+        "nome"=>"Ensina a linguagem mais difícil do mundo, de quebra você ainda aprende a virar um Peaky Blinder!! <3",
+        "valor"=>"1.490,99 Mensais",
+        "imagem"=>"diogoRanghetti.jpeg");
     $produtos[5] = array("id"=>5,
-        "nome"=>"Usado: Celular Samsung Galaxy S20 128GB Cloud Pink Bom - Trocafone",
-        "valor"=>"1.790,90",
-        "imagem"=>"3535733518_1.webp");
-    $produtos[6] = array("id"=>6,
-        "nome"=>"Aspirador Água e Pó Electrolux Awd01 Hidrolux 1250w - 220v",
-        "valor"=>"279,90",
-        "imagem"=>"1237561210P.webp");
-    $produtos[7] = array("id"=>7,
-        "nome"=>"Caixa de Som JBL Go 3, Bluetooth, Azul",
-        "valor"=>"290,90",
-        "imagem"=>"3032309897P.webp");                                        
+        "nome"=>"Coordenador zika, ensina java, algoritmos, lógica, e até a como comprar grade de cerveja com qualidade!! <3",
+        "valor"=>"1.790,90 Mensais",
+        "imagem"=>"rafaelBarros.jpeg");
         

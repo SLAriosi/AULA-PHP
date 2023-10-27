@@ -4,7 +4,7 @@ body {
 }
 
 header {
-    background-color: #F00;
+    background-color: #1f46ff;
     padding: 10px;
     box-sizing: border-box;
     width: 100%;
@@ -65,7 +65,7 @@ h1 {
 }
 
 footer {
-    background-color: #F00;
+    background-color: #1f46ff;
     color: #FFF;
     padding: 20px 0;
 }
